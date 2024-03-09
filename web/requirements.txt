@@ -28,5 +28,5 @@ pyyaml
 rauth
 redis
 requests
-sqlalchemy==1.1.0b3
+sqlalchemy==1.3.0
 wtforms_components
